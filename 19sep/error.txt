@@ -1,6 +1,0 @@
-This is a test line.
-No issues here.
-An ERROR occurred in the system.
-Everything running fine.
-Minor error detected at module 3.
-Completed successfully.
